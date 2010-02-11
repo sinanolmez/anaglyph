@@ -1,0 +1,11 @@
+The application starts up in B/W and shader OFF modes.
+
+
+CONTROLS:
+
+ESC:	exit program
+F1:	toggle between RGB and B/W input images
+F2:	toggle shader mode
+	- OFF (use color masking)
+	- SIMPLE (same effect as color masking)
+	- DUBOIS (slightly advanced color mixing)
